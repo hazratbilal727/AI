@@ -1,0 +1,6 @@
+{
+  "name": "STONIC AI - Futuristic Desktop Assistant",
+  "description": "Futuristic desktop AI assistant UI simulator with multi-panel command center, orbital core, voice synthesis, memory systems, agents, and world monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
